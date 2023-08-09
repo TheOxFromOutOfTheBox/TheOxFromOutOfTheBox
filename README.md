@@ -18,7 +18,7 @@
 
 ##  Digital Citizen!
 
-- 🔭 I’m currently working on [frontend](https://apurbar06.github.io/Our-Webpage/) of this site.
+- 🔭 I’m currently working as an intern at KLA-Tencor.
 - 🌱 I’m currently learning more about web development and scripting.
 - 💬 Ask me about new things.
 - 📫 How to reach me: [Instagram - @kmhimanshu](https://instagram.com/kmhimanshu/)
